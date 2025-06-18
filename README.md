@@ -23,3 +23,17 @@ I value creating secure, efficient, and ethical systems that protect both people
 
 This portfolio is organized by project, with each section documenting key skills and knowledge gained throughout the Google Cybersecurity Certificate and my independent work.
 
+
+## 🎯 Goal
+
+This portfolio is a reflection of my growth as a cybersecurity professional. It’s designed to demonstrate my ability to apply cybersecurity principles in real-world settings, both through formal training and hands-on technical work.
+
+## 📫 Contact Me
+
+Feel free to connect or reach out:
+
+- 📧 andresportillocruz@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/andresporcruz)  
+- 📂 [Resume](https://github.com/Andresporcruz/Resume-Andres-Portillo/blob/main/Resume.pdf)
+
+
