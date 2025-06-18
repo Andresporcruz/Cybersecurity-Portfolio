@@ -86,12 +86,14 @@ To reduce risk and improve Botium Toys' security posture, the following actions 
 - EU data breach notification plan: Yes  
 - Data classification and privacy enforcement: Partial
 
-## Files Included
+**Recomentation to Stake Holders:**
 
-- `security-audit.md` – This overview  
-- `audit-recommendations.md` – Detailed risk-based recommendations  
-- `controls-compliance-checklist.docx` – Full checklist with responses  
-- `risk-assessment-summary.md` – Summary of scope, asset types, and risk findings
+To reduce risks to critical assets and enhance Botium Toys’ overall security posture, it is recommended that the IT manager prioritize implementing least privilege access controls and a separation of duties to limit unnecessary data exposure. Immediate steps should include establishing a formal disaster recovery plan, deploying an intrusion detection system (IDS), and introducing encryption for all stored and transmitted customer data. Strengthening the current password policy and adopting a centralized password management system will further reduce vulnerabilities and improve user authentication. These improvements will not only align the company with industry standards such as PCI DSS, GDPR, and SOC 2 but also demonstrate a proactive commitment to protecting customer information and supporting business continuity.
+
+## Files Included
+ 
+- [`audit-recommendations.md` ](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)– Provided Security Audit 
+- [`controls-compliance-checklist.docx](https://docs.google.com/document/d/1LURHx3pt6gAjdxldJ9itrZ2QjygNABcTzmmSlbXgNNk/edit?usp=sharing)` – Full checklist with responses  
 
 ---
 
